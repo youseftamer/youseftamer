@@ -20,7 +20,7 @@ I am a student at the Higher Technological Institute (HTI), passionately weaving
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" />
 
 ---
-
+#
 ## 📂 Projects
 
 <a href="https://github.com/youseftamer/youseftamer-website"><img src="https://raw.githubusercontent.com/youseftamer/youseftamer-website/a1adafa6f09c6622042e63b6f03773bb6d4dc850/Yousef-Portfolio-Website.png" alt="screen-shot" style="position: relative;
