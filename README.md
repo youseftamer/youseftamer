@@ -46,7 +46,7 @@ _Expected Graduation: 2026_
 
 - **Email**: [youseftamereg@gmail.com](mailto:youseftamereg@gmail.com)
 - **LinkedIn**: [Yousef Tamer](https://www.linkedin.com/in/yousef-tamer-15388a293)
-- **GitHub**: [yousef20](https://github.com/yousef20)
+- **GitHub**: [yousef20](https://github.com/youseftamer)
 
 ---
 
