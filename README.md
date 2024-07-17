@@ -24,7 +24,7 @@ I am a student at the Higher Technological Institute (HTI), passionately weaving
 ## 📂 Projects
 
 <a href="https://github.com/youseftamer/youseftamer-website"><img src="https://raw.githubusercontent.com/youseftamer/youseftamer-website/a1adafa6f09c6622042e63b6f03773bb6d4dc850/Yousef-Portfolio-Website.png" alt="screen-shot" style="position: relative;
-            width: 35%;
+            width: 50%;
             max-width: 250px;
             height: auto;
             background-color: #0d1117;
