@@ -67,13 +67,17 @@
 
 ###
 
-<h3 align="left">C-hive Company</h3>
-
-###
+<br clear="both">
 
 <h3 align="right">Portfolio</h3>
 
 ###
+
+<h3 align="left">C-hive Company</h3>
+
+###
+
+<br clear="both">
 
 <img align="left" height="280" src="https://raw.githubusercontent.com/jooexploit/C-hive/refs/heads/main/image.png"  />
 
