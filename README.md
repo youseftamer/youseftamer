@@ -67,12 +67,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="right">Portfolio</h3>
-
-###
-
 <h3 align="left">C-hive Company</h3>
 
 ###
@@ -82,6 +76,14 @@
 <img align="left" height="280" src="https://raw.githubusercontent.com/jooexploit/C-hive/refs/heads/main/image.png"  />
 
 ###
+
+<br clear="both">
+
+<h3 align="right">Portfolio</h3>
+
+###
+
+<br clear="both">
 
 <img align="right" height="280" src="https://raw.githubusercontent.com/youseftamer/youseftamer-website/a1adafa6f09c6622042e63b6f03773bb6d4dc850/Yousef-Portfolio-Website.png"  />
 
