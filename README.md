@@ -60,6 +60,6 @@ I am always eager to discuss tech, learn from others, and dive into new challeng
 
 ## 📈 GitHub Stats
 
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youseftamer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youseftamer&layout=compact&theme=radical)
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooexploit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooexploit&layout=compact&theme=radical)
 
