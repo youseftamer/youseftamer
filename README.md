@@ -89,7 +89,7 @@
 
 ###
 
-<h3 align="left">C-hive Company</h3>
+<h3 align="left">Blog App</h3>
 
 ###
 
